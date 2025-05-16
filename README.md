@@ -70,12 +70,13 @@
 
 ---
 
-## 🧩 Open‑Source Side Projects
+## 🧩 Side Projects
 
-| Project                                                                                          | Highlights                                                                                                  |
-| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| **Nutrition Club Manager** · [Repo](https://github.com/hariprakashdhoddubasker/NutriClubManager) | WPF · MVVM · SQL CE — Manages member health records, prepaid billing, automatic reminders, and PDF invoices |
-| **GST Billing System** · [Repo](https://github.com/hariprakashdhoddubasker/GSTBillingSystem)     | WPF · MVVM — Retail invoicing with GST compliance, inventory & thermal/HTML‑PDF printing                    |
+| Project                                                                                          | Highlights                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Business Autopilot Platform** *(private)*                                                      | Node.js · Express · MySQL — Bulk WhatsApp messaging & lead‑nurturing engine for a fitness business. Features RESTful lead APIs, CSV import, CRON scheduler, Google Drive report uploads, webhooks, and full Jest test suite. |
+| **Nutrition Club Manager** — [Repo](https://github.com/hariprakashdhoddubasker/NutriClubManager) | WPF · MVVM · SQL CE — Member management, attendance tracking, nutrition plans, product sales, and analytics dashboards.                                                                                                      |
+| **GST Billing System** — [Repo](https://github.com/hariprakashdhoddubasker/GSTBillingSystem)     | WPF · MVVM — GST‑compliant invoicing, inventory & customer DB, auto‑tax calcs, PDF/print exports.                                                                                                                            |
 
 ---
 
