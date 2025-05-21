@@ -2,7 +2,7 @@
 
 **Senior Full‑Stack Software Engineer | .NET Specialist**
 
-> *Currently open to senior .NET / full‑stack leadership roles (remote‑friendly or Bangalore based).*
+> *Currently open to senior .NET / full‑stack leadership roles (remote‑first based).*
 > I turn complex business requirements into reliable, high‑performance software with measurable impact.
 
 ---
